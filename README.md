@@ -26,8 +26,8 @@ A Retrieval-Augmented Generation (RAG) based chatbot that answers questions from
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/mistral-rag-chatbot.git
-cd mistral-rag-chatbot
+git clone https://github.com/your-username/context-aware-chatbot.git
+cd context-aware-chatbot
 ```
 
 ### 2. Create & Activate Virtual Environment
