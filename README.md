@@ -1,6 +1,6 @@
 # Mistral RAG Chatbot 🧠💬
 
-A Retrieval-Augmented Generation (RAG) based chatbot that answers questions from your own documents using **LangChain**, **ChromaDB** (or FAISS), and **Mistral** LLM via **Ollama**. Built with a simple and clean **Streamlit UI**.
+A Retrieval-Augmented Generation (RAG) based chatbot that answers questions from your own documents using **LangChain**, **FAISS**, and **Mistral** LLM via **Ollama**. Built with a simple and clean **Streamlit UI**.
 
 ---
 
