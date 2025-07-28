@@ -1,4 +1,5 @@
 streamlit
+langchain_ollama
 langchain
 langchain-community
 sentence-transformers
